@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sanjay
 - 👀 I’m interested in Software data applications
-- 🌱 I’m currently learning Java, Scala
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on Python, Snowflake, Airflow 
+- 💞️ I’m looking to collaborate on AI, LLMs, LangChain etc
 - 📫 How to reach me ...
 
 <!---
